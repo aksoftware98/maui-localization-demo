@@ -1,0 +1,6 @@
+HelloWorld: Hello, World
+DotNetBotDescription: Cute dot net bot waving hi to you!
+Welcome: Welcome to Maui Multi Languages
+ClickMe: Click me
+SingleButtonClickText: You clicked 1 time
+MultiButtonClickText: You clicked {clicks} times
